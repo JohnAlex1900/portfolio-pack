@@ -1,0 +1,31 @@
+[
+  {
+    "title": "TaskFlow",
+    "desc": "Collaborative task manager with drag-and-drop boards and auth.",
+    "imageUrl": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=900&q=80",
+    "liveUrl": "https://example.com/taskflow",
+    "codeUrl": "https://github.com/example/taskflow"
+  },
+  {
+    "title": "ShopDash",
+    "desc": "E-commerce dashboard with sales analytics and customer insights.",
+    "imageUrl": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?auto=format&fit=crop&w=900&q=80",
+    "liveUrl": "https://example.com/shopdash",
+    "codeUrl": "https://github.com/example/shopdash"
+  },
+  {
+    "title": "APIHub",
+    "desc": "Developer API platform with docs, key management, and request logs.",
+    "imageUrl": "https://images.unsplash.com/photo-1526379095098-d400fd0bf935?auto=format&fit=crop&w=900&q=80",
+    "liveUrl": "https://example.com/apihub",
+    "codeUrl": "https://github.com/example/apihub"
+  },
+  {
+    "title": "DevLink",
+    "desc": "Portfolio and blogging platform for developers with markdown support.",
+    "imageUrl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+    "liveUrl": "https://example.com/devlink",
+    "codeUrl": "https://github.com/example/devlink"
+  }
+]
+
